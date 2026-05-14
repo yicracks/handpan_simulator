@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --grid-template-columns-16: repeat(16, minmax(0, 1fr));
+  --animate-spin-slow: spin 8s linear infinite;
+}
